@@ -8,4 +8,4 @@ This project requires [Python3+](https://www.python.org/downloads/) to run
 
 A super simple implementaion of the A* pathfinding algorithm in python using turtle graphics.
 
-![Pathfinding Demo](https://raw.githubusercontent.com/JeremyBankes/Datum/master/cover.png "Pathfinding Demo")
+![Pathfinding Demo](https://github.com/JeremyBankes/Python-A-Star/blob/main/cover.png?raw=true "Pathfinding Demo")
