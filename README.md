@@ -1,6 +1,6 @@
 # Python-A-Star
 
-[Download Demo](https://github.com/JeremyBankes/Python-A-Star/releases/download/1.0/Python-A-Star.zip) (A zip file)
+[Download Demo (Python-A-Star.zip)](https://github.com/JeremyBankes/Python-A-Star/releases/download/1.0/Python-A-Star.zip) (A zip file)
 
 This project requires [Python3+](https://www.python.org/downloads/) to run
 
